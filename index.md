@@ -1,6 +1,8 @@
 ---
-layout: default
+## Hello World: Gleaning GitHub
+
+## _GitHub Live_
+
 ---
 
-{% include 01-name.md %}
 
