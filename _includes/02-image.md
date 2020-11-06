@@ -1,1 +1,1 @@
-![Eat natural](/aaina-sharma-C_spTFvd4GU-unsplash.jpg)
+![Image of Yakto cat](https://octodex.github.com/images/Yakto.png)
