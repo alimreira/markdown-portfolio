@@ -1,4 +1,4 @@
-**I'm hardworking and resilent** :sparkles:
-***I"m focused and determined*** :tada:
-_I"m a go-getter_ :smile:
-***I will be a sort-after Java progammer with these attributes***
+- [] **I'm hardworking and resilent** :sparkles:
+- [] ***I"m focused and determined*** :tada:
+- [] _I"m a go-getter_ :smile:
+- [] ***I will be a sort-after Java progammer with these attributes***
