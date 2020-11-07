@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I'm hardworking and resilent** :sparkles:
+***I"m focused and determined*** :tada:
+_I"m a go-getter_ :smile:
+***I will be a sort-after Java progammer with these attributes***
